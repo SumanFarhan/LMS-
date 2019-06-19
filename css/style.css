@@ -1,0 +1,60 @@
+.container-fluid
+{
+  padding:0px!important;
+}
+h1
+{
+  color: #800000;
+}
+.navbar{
+    background-color: #800000;
+    border-color: #E7E7E7;
+    transition:  0.6s ease;
+}
+.nav-link {
+  color:white!important;
+  font-family:"MS Serif", "New York", serif;
+  font-size: 21px;
+}
+li.dropdown{
+  padding-left:120px!important;
+  
+}
+  li.nav-item{
+    padding-left:120px!important;
+
+  }
+  .btn-default
+  {
+    background-color:#800000;
+color:white;
+   }
+.img-fluid
+{
+ 
+  height: 500px;
+  width:1500px; 
+ }
+ .image-fluid
+ {
+  padding-bottom: 6px;
+    margin-bottom: 20px;
+  height:100px;
+  width: 150px;
+ }
+#footer
+{
+background-color:#800000 ;
+color:white;
+}
+#footer h3{  
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
